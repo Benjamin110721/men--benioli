@@ -1,0 +1,104 @@
+<div class="menu-container">
+
+  <div class="brand">
+    <h2>Benioli</h2>
+    <span>PIZZERÍA</span>
+  </div>
+
+  <section class="hero">
+    <h1>PIZZA</h1>
+
+    <h3>TAMAÑO FAMILIAR</h3>
+
+    <div class="size">
+      <span>12 SLICES, 16"</span>
+    </div>
+  </section>
+
+  <section class="menu-title">
+    <h2>NUESTRO MENÚ</h2>
+  </section>
+
+  <section class="menu-list">
+
+    <div class="item">
+      <h3>JAMÓN ₡7.000</h3>
+      <p>Salsa de tomate de la casa, mozzarella y jamón.</p>
+    </div>
+
+    <div class="item">
+      <h3>PEPPERONI ₡7.000</h3>
+      <p>Salsa de tomate, mozzarella y pepperoni.</p>
+    </div>
+
+    <div class="item">
+      <h3>HAWAIANA ₡7.000</h3>
+      <p>Salsa de tomate, mozzarella, jamón y piña.</p>
+    </div>
+
+    <div class="item">
+      <h3>HONGONADA ₡7.000</h3>
+      <p>Salsa de tomate, mozzarella, jamón y hongos.</p>
+    </div>
+
+    <div class="item">
+      <h3>EXTRAVAGANTE ₡7.500</h3>
+      <p>
+        Salsa BBQ, tocineta, cebolla,
+        chile dulce y carne molida.
+      </p>
+    </div>
+
+    <div class="item">
+      <h3>CASERA ESPECIAL ₡7.500</h3>
+      <p>
+        Salsa especial con tomate en cuadritos,
+        ajo en aceite de oliva, albahaca,
+        orégano, jamón, pepperoni y mozzarella.
+      </p>
+    </div>
+
+  </section>
+
+  <section class="menu-list">
+
+    <div class="item">
+      <h3>CAMARONES ₡8.500</h3>
+      <p>
+        Salsa de tomate de la casa,
+        mozzarella y camarones.
+      </p>
+    </div>
+
+    <div class="item">
+      <h3>SUPREMA ₡7.000</h3>
+      <p>
+        Mozzarella, salsa de tomate,
+        hongos, jamón, cebolla,
+        chile dulce y carne molida.
+      </p>
+    </div>
+
+    <div class="item">
+      <h3>MEXICANA ₡7.000</h3>
+      <p>
+        Salsa de tomate, mozzarella,
+        jamón, chile dulce,
+        jalapeño y carne molida.
+      </p>
+    </div>
+
+  </section>
+
+  <footer>
+
+    <h3>SERVICIO A DOMICILIO</h3>
+
+    <div class="contact">
+      <p>📞 +506 6152 4671</p>
+      <p>✉ beniolipizzeria@gmail.com</p>
+    </div>
+
+  </footer>
+
+</div>
